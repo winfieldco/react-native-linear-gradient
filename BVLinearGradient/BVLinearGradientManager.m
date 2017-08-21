@@ -1,6 +1,6 @@
 #import "BVLinearGradientManager.h"
 #import "BVLinearGradient.h"
-#import <React/RCTBridge.h>
+#import <RCTBridge.h>
 
 @implementation BVLinearGradientManager
 
