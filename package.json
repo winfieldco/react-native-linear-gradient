@@ -1,6 +1,6 @@
 {
   "name": "react-native-linear-gradient",
-  "version": "2.1.0-post1",
+  "version": "2.1.0-post2",
   "description": "A <LinearGradient> element for react-native",
   "main": "index",
   "author": {
